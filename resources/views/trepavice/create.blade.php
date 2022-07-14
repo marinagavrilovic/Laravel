@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-    <h1> Unesite novog kozmetičara </h1>
+    <h1> Unesite novog kozmeticara </h1>
 
     {!! Form::open(['action'=>['App\Http\Controllers\KozmeticarController@store'],'method'=>'POST']) !!}
     <div class="form-group">
