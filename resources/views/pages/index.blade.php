@@ -71,7 +71,7 @@
 		<div class="row"  align="center">
 			<div class="col-md-6">
                 <br>
-				<div id="dream-land" style="color:black" align="left">Šminkanje je velika ženska privilegija koja nam daje priliku da izrazimo sebe na uvek novi način, da istaknemo sve što je lepo na našem licu, a prikrijemo sve ono što smatramo nedostacima. Šminka je beskonačna prilika za kreativnost i igru, i inspiracija. Šminkanje je ono što nam daje dodatno samopouzdanje, medjutim sve više i više se stavlja akcenat na oči i neizbežni detalj lepih, krupnih i gustih trepavica.
+				<div id="dream-land" style="color:black" align="left">Šminkanje je velika ženska privilegija koja nam daje priliku da izrazimo sebe na uvek novi način, da istaknemo sve što je lepo na našem licu, a prikrijemo sve ono što smatramo nedostacima! Šminka je beskonačna prilika za kreativnost i igru, i inspiracija. Šminkanje je ono što nam daje dodatno samopouzdanje, medjutim sve više i više se stavlja akcenat na oči i neizbežni detalj lepih, krupnih i gustih trepavica.
 
                     Usluga profesionalne nadogradnje trepavica se radi najkvalitetnijim proizvodima popularnih brendova. Uz svaki termin rezervisan na ovom sajtu, obraća se posebna pažnja na konsultacije i savetovanje kako bi se pronašla
                     idealna veličina trepavica koje odgovaraju konkretnom obliku lica. Ukoliko je potrebno, pre termina se mogu isprobati različiti proizvodi i klijent može sad napraviti izbor bez moranja da se posluša savet profesionalnog lica. Uronite u svet zavodljivih očiju koje nikoga neće ostaviti ravnodušnim.
